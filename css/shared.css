@@ -1,0 +1,19 @@
+body {
+    background-color: darkmagenta;
+}
+
+.card {
+    background-image: radial-gradient(circle at bottom, yellow, orange);
+}
+
+.small-card {
+    width: 500px;
+}
+
+.bg-yellow-gradient {
+    background-image: radial-gradient(circle at center, yellow, orange);
+}
+
+.navbar {
+    justify-content: space-around;
+}
