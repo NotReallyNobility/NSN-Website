@@ -1,5 +1,6 @@
 # NSN-Website
 A website collecting details on my stories.
+Repo link: https://github.com/NotReallyNobility/NSN-Website.git
 
 The current website uses Bootstrap5 and Jquery. 
 The current bootstrap features in use are the containers, navbar, cards, and flex.
