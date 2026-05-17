@@ -17,3 +17,8 @@ body {
 .navbar {
     justify-content: space-around;
 }
+
+.centered {
+    justify-self: center;
+    padding: 0px 10px;
+}
